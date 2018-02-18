@@ -1,0 +1,3 @@
+add 0402 components to bom.txt
+add gerber files
+replace usb_molex_0475890001 with molex_47346-0001 (from Newark/element14) on BOM
