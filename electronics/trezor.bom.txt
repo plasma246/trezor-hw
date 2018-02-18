@@ -1,6 +1,8 @@
 Trezor
 ======
 
+- Add 0402 passives
+
 - 5x SMD 0603 Capacitor 1uF - C1, C2, C4, C10, C11
 - 7x SMD 0603 Capacitor 0.1uF - C3, C12, C13, C14, C15, C16, C18
 - 3x SMD 0603 Capacitor 2.2uF - C6, C7, C17
